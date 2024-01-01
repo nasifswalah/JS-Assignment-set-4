@@ -1,0 +1,9 @@
+
+.display{
+    display: flex;
+    align-items: center;
+    justify-content: space-around; 
+    height: fit-content;
+    width: fit-content; 
+    border: 2px solid black;  
+}

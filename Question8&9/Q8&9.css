@@ -1,0 +1,13 @@
+.detail-container{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    width: 300px;
+    margin-top: 20px;
+    background-color: beige;
+    padding: 5px;
+}
+
+.input{
+    margin-bottom: 1px;
+}
